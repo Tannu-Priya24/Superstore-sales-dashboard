@@ -2,12 +2,12 @@
 
  Recommended structure and order
 
-1.Project Title / Headline
+1.  Project Title / Headline
 
   Superstore Sales Dashboard Analysis. A dynamic, intercative data visualization tool built    to explore superstore sales. 
  
 
-2.Short Description / Purpose
+2.  Short Description / Purpose
 
   This project is an interactive Power BI dashboard created using the popular Superstore Sales dataset.
   The dashboard helps analyze business performance by tracking important KPIs such as:
@@ -22,7 +22,7 @@
    The dashboard is designed to provide quick business insights through clean visualizations and interactive charts.
   
 
-3.Tech Stack
+3. Tech Stack
 
   The dashboard was built using the following tools and technologies:
 
@@ -32,9 +32,9 @@
    . Excel / CSV Dataset – Data source format
    . Data Visualization Techniques – Bar charts, line charts, treemaps, donut charts,scatterplots, KPI cards, and waterfall charts.
 
-   
 
- 4. Data Source
+   
+4. Data Source
     
     More info on where the data comes from and how it's structured
     Example:
